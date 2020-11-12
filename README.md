@@ -28,6 +28,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Dependencies used :`
+```
+1. axios,    
+2. movie-trailer, 
+3. react,
+4. react-dom,
+5. react-scripts,
+6. react-youtube, 
+```
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
