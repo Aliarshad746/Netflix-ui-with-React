@@ -28,6 +28,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### ` API SOURCE `
+API used from this site is themoviedb [website](https://www.themoviedb.org/).
+
 ### `Dependencies used :`
 ```
 1. axios,    
